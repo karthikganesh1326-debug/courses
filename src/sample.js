@@ -1,4 +1,6 @@
 /* 
 this is sample code for git practice
+
+
 for merge conflict
 */

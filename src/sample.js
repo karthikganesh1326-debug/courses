@@ -1,0 +1,5 @@
+/* 
+this is sample code for git practice
+so this code is sample branch conflit
+for merge conflict
+*/

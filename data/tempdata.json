@@ -1,0 +1,28 @@
+
+ {
+ 
+   "courselist" : [
+    {
+        "id":1,
+         "name":"JAVA",
+             "price":66777,
+             "image":"http://localhost:3000/assets/jav.webp"
+    },   
+    {
+        "id":2,
+         "name":"REACT",
+             "price":677,
+             "image":"http://localhost:3000/assets/reactimg.webp"
+    },
+      {         
+    
+    
+             "id":3,
+             "name":"JAVASCRIPT",
+             "price":67,
+             "image":"http://localhost:3000/assets/jss.webp"
+      }
+      
+                
+]
+}
